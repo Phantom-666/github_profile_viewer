@@ -1,0 +1,2 @@
+Develop an app that fetches and displays information from a GitHub user's profile.
+You can show repositories, followers, and other relevant data.
